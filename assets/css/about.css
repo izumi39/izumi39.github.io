@@ -1,0 +1,24 @@
+main article > .content > p {
+  max-inline-size: 39rem;
+  margin-block: 0 1rem;
+  font-size: 1.0625rem;
+  line-height: 1.85;
+  text-wrap: balance;
+}
+
+main article > .content > p:first-child {
+  font-size: 1.125rem;
+}
+
+main article > .content > hr {
+  margin-block: 1.5rem;
+  border: 0;
+  border-block-start: 1px solid var(--btn-border-color);
+  opacity: 1;
+}
+
+@media (max-width: 40rem) {
+  main article > .content > p br {
+    display: none;
+  }
+}

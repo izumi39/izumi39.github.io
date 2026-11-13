@@ -31,7 +31,7 @@ This repository is automatically updated with new releases from the theme reposi
 
 ## License
 
-This work is published under [MIT][mit] License.
+The Chirpy Starter software is distributed under the [MIT License][mit]. All rights are reserved for original articles in `_posts/`. You may read them and share links to the originals. Republishing, translating, adapting, or otherwise publicly sharing the content requires permission from the copyright holder, except as permitted by law.
 
 [gem]: https://rubygems.org/gems/jekyll-theme-chirpy
 [chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/

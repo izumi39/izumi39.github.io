@@ -1,0 +1,7 @@
+#sidebar #avatar:empty {
+  display: none;
+}
+
+#sidebar #avatar:empty + .site-title {
+  margin-top: 2.5rem;
+}

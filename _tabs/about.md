@@ -4,5 +4,11 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+「我闻」取自「[如是我闻](https://zh.wikipedia.org/wiki/%E5%A6%82%E6%98%AF%E6%88%91%E8%81%9E)」。常见于佛经卷首，意思是「我（阿难）曾亲耳听到佛这样说的」。
+
+---
+
+我用这两个字作笔名，是想提醒自己，写文章时也要说清楚自己是怎么知道的。
+引用的资料和数据要有出处，结论是怎么一步步得出来的，要读者能看得明白。
+
+如果你也在琢磨同一个问题，希望这里的文章能帮上忙。

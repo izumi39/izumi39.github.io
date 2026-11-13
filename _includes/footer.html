@@ -1,0 +1,7 @@
+{%- assign notice = site.data.locales[include.lang].copyright.footer | default: site.data.locales.en.copyright.footer -%}
+{%- assign title = site.title | escape -%}
+{%- capture year -%}<time>{{ 'now' | date: '%Y' }}</time>{%- endcapture -%}
+
+<footer class="d-flex flex-column justify-content-center text-muted pb-lg-3">
+  <p>{{ notice | replace: ':YEAR', year | replace: ':TITLE', title }}</p>
+</footer>
